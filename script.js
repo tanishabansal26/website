@@ -2,7 +2,7 @@
    SETTINGS: paste your Google Analytics 4 Measurement ID below
    (looks like G-ABC123XYZ9). Leave as is until you have one.
    =========================================================== */
-var GA_ID = "G-XXXXXXXXXX";
+var GA_ID = "G-D736LML4RN";
 
 (function () {
   // ---------- Google Analytics 4 ----------
